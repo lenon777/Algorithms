@@ -13,4 +13,5 @@ function bubbleSort(arr) {
 }
 
 var arr = [4, 1, 2, 4, 7, 9, 0, 3];
+
 bubbleSort(arr);
