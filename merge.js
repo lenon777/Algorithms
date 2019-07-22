@@ -2,7 +2,7 @@ var arr = [5, 3, 6, 2, 9, 1];
 function mergeSort(arr) {
     if (arr.length <= 1) {
         return arr;
-      }
+    }
     var middle = Math.floor(arr.length / 2);
     var left = arr.slice(0, middle);
     var right = arr.slice(middle);
