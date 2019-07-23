@@ -19,4 +19,3 @@ function binarySearch(arr, item) {
     return index;
 }
 var arr = [1, 2, 4, 6, 8, 9, 7];
-binarySearch(2, arr)
